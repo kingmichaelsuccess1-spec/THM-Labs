@@ -1,0 +1,33 @@
+# TryHackMe — SOC L1 Alert Reporting
+
+## Overview
+**Platform:** TryHackMe
+**Room:** SOC L1 Alert Reporting
+**Category:** SOC Operations / Documentation & Escalation
+**Analyst Focus:** SOC Tier 1 — Reporting, Escalation & Communication
+
+## Description
+This room builds directly on alert triage skills by focusing on what comes next: documenting findings and escalating effectively. It covers why clear alert reporting matters, how to write proper alert comments and case reports, and best practices for escalation and communication. Skills were applied by triaging alerts in a simulated SOC environment using the 5 W's framework.
+
+## Key Concepts Covered
+- The need for alert reporting and escalation in SOC operations
+- Writing alert comments and case reports
+- The 5 W's framework: Who, What, When, Where, Why
+- Escalation methods — when and how to escalate to Tier 2 or IR
+- Communication best practices for analyst handoffs
+- Applied practice: triage alerts and produce case reports end-to-end
+
+## SOC Analyst Takeaways
+- Documentation: Writing clear, structured alert comments and case reports
+- Reporting Framework: Applying the 5 W's for consistent, complete reporting
+- Escalation: Knowing when and how to escalate alerts appropriately
+- Communication: Writing concise, factual, actionable handoffs for the next analyst
+
+## Skills Demonstrated
+- Structured report writing using the 5 W's framework
+- End-to-end triage-to-report workflow in a simulated SOC environment
+- Escalation decision-making and procedure
+- Clear written communication for SOC documentation standards
+
+**Platform:** TryHackMe | Room: SOC L1 Alert Reporting
+*Part of Michael King's SOC Analyst cybersecurity portfolio.*
